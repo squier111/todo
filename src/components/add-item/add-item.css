@@ -1,0 +1,10 @@
+button.btn-add-item {
+    width: 100%;
+    flex: 0 0 100px;
+    margin: 0 0 0 5px;
+}
+.btn-add-holder {
+    padding-top: 5px;
+    justify-content: center;
+    align-items: center;
+}
